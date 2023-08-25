@@ -1,0 +1,65 @@
+html,body{
+    margin: 0;
+}
+header{
+    background-color: rgb(210, 248, 210);
+}
+#logo{
+    width: 80px;
+}
+#imagemfundo{
+    background: url(capa.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 20px;
+}
+#titulo{
+    color: rgb(0, 0, 0);
+    padding-top: 25%;
+}
+#linha{
+    width: 70%;
+    height: 1px;
+background-color: black;
+}
+#subtitulo{
+    color: rgb(0, 0, 0);
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#objetivo{
+    padding: 20px;
+}
+.coluna{
+    float: left;
+    padding:1%;
+    padding-right: 5%;
+    position: relative;
+}
+#selecao{  
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 100%;
+}
+.colunas{
+    float: left;
+    padding-inline: 4%;
+    width: 25%;
+    position:relative;
+}
+.icon{
+    width: 60px;
+}
+#sobremim{
+    float: left;
+    background-color:#d6dee2;
+    width: 100%;
+}
+#rodape{
+    float: left;
+    background-color: grey;
+    font-size: 12px;
+    text-align: center;
+    width: 100%;
+}
